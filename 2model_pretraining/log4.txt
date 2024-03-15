@@ -1,0 +1,512 @@
+Using device: cuda
+NOTE! Installing ujson may make loading annotations faster.
+Proxy exported
+Using CUDA: 4 GPUs available
+Train size 532577 and validation size 59176
+Train size 532577 and validation size 59176
+Training started.
+Step 0/100000: Avg Running Loss = 3.638543128967285
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ The flowers are being displayed in the dark room.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A vase of flowers with a vase of a in.......<|endoftext|> 
+1 - Target captions:
+ A group of people that are holding platters with pizza.  
+1 - predicted_captions:
+ A man and a woman are sitting at a a a pizza. pizza.....<|endoftext|> 
+Step 100/100000: Avg Running Loss = 4.389236309528351
+0 - Target captions:
+ A bowl of fruit sitting on top of a table.<|endoftext|>  
+0 - predicted_captions:
+ A bowl of fruit and a plate of on on a a... a. a.<|endoftext|> 
+1 - Target captions:
+ An old, ornate circular clock in an urban setting.  
+1 - predicted_captions:
+ A clock tower with a clock on the top of it........<|endoftext|> 
+Step 200/100000: Avg Running Loss = 4.2935209608078
+Batch skipped as captions too long.
+0 - Target captions:
+ An iPhone is placed on a lap with other small books and a cluttered desk.   
+0 - predicted_captions:
+ A desk with a laptop, a, and and and and and and and and and and and<|endoftext|> 
+1 - Target captions:
+ A young kid swings at a pitch during a baseball game.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A young boy is wearing a baseball uniform and a a a.......<|endoftext|> 
+Step 300/100000: Avg Running Loss = 4.293454825878143
+Batch skipped as captions too long.
+0 - Target captions:
+ Baby playing on mom's brick  cell phone.   
+0 - predicted_captions:
+ A baby is sitting on a bed with a a a a a a a a a a.<|endoftext|> 
+1 - Target captions:
+ A woman standing with large statues of a bear.<|endoftext|>  
+1 - predicted_captions:
+ A woman standing in front of a t t t t t t t.....<|endoftext|> 
+Step 400/100000: Avg Running Loss = 4.334387681484222
+Batch skipped as captions too long.
+0 - Target captions:
+ a building with a tall clock tower  <|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man standing in front of a clock tower clock clock clock clock clock clock clock clock clock clock<|endoftext|> 
+1 - Target captions:
+ The small vase is holding a few flowers on the desk.   
+1 - predicted_captions:
+ A vase of flowers on a table a a a a. a.....<|endoftext|> 
+Step 500/100000: Avg Running Loss = 4.370526568889618
+0 - Target captions:
+ A man and two women sitting down on a couch and some chairs.  
+0 - predicted_captions:
+ A woman and a man sitting on a a a a a a a. a. a.<|endoftext|> 
+1 - Target captions:
+ A gas stove with four burners in a kitchen.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A kitchen with a stove, oven, and and and and. and. and...<|endoftext|> 
+Step 600/100000: Avg Running Loss = 4.525050868988037
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ A man standing outside a garage with tanks inside.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A kitchen with a stove, refrigerator, and and and. and......<|endoftext|> 
+1 - Target captions:
+ The people are playing a video game in the room.   
+1 - predicted_captions:
+ A woman and a man are playing a video in a a a. a....<|endoftext|> 
+Step 700/100000: Avg Running Loss = 4.360197227001191
+Batch skipped as captions too long.
+0 - Target captions:
+ A baseball player getting ready to swing his bat.  
+0 - predicted_captions:
+ A baseball player is at the plate with a a a..... the. the<|endoftext|> 
+1 - Target captions:
+ A group of young children holding onto stuffed animals<|endoftext|>  
+1 - predicted_captions:
+ A group of children holding a bunch of a. a........<|endoftext|> 
+Step 800/100000: Avg Running Loss = 4.476463956832886
+0 - Target captions:
+ This boy is holding an electronic tennis racket.<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A young boy holding a tennis racket and a a a........<|endoftext|> 
+1 - Target captions:
+ A man in a field swinging a bat at a baseball.  
+1 - predicted_captions:
+ A man is playing a frisbee in a a a a a. a. a.<|endoftext|> 
+Step 900/100000: Avg Running Loss = 4.414523673057556
+Saving Checkpoint
+0 - Target captions:
+ A Clock Tower in a town square during sunset.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A clock tower with a clock on the top of it....... the<|endoftext|> 
+1 - Target captions:
+ a close up of a table with many different old cell phones  
+1 - predicted_captions:
+ A bunch of remotes and a on a on a a.......<|endoftext|> 
+Step 1000/100000: Avg Running Loss = 4.345291349887848
+0 - Target captions:
+ three computer on a desk with a mouse and keyboard  
+0 - predicted_captions:
+ A computer with two monitors and a a on a a........<|endoftext|> 
+1 - Target captions:
+ A group of people playing a game of tennis.  
+1 - predicted_captions:
+ A man and a woman are playing tennis on a a a. a.....<|endoftext|> 
+Step 1100/100000: Avg Running Loss = 4.406172778606415
+0 - Target captions:
+ a man talking on a cell phone with his mouth agape   
+0 - predicted_captions:
+ A man in a suit is holding a phone phone a phone. a.....<|endoftext|> 
+1 - Target captions:
+ A man standing on home plate holding a baseball bat.<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A baseball player is in the air to a a a a.......<|endoftext|> 
+Step 1200/100000: Avg Running Loss = 4.555194385051728
+0 - Target captions:
+ Sandwich split in half on a table next to a cup of coffee.   
+0 - predicted_captions:
+ A sandwich on a plate with a cup of a and a a. a. a. a<|endoftext|> 
+1 - Target captions:
+ Man pours champagne into flute while one woman drinks champagne<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man in a suit holding a glass of a a a a a a a a a a<|endoftext|> 
+Step 1300/100000: Avg Running Loss = 4.235744578838348
+0 - Target captions:
+ The thin crust pizza is cut into several sections. <|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A pizza with a variety of toppings on it.........<|endoftext|> 
+1 - Target captions:
+ A tennis player prepares to hit a tennis ball, while others watch.  
+1 - predicted_captions:
+ A man is playing tennis and is a a ball. a.... the. the<|endoftext|> 
+Step 1400/100000: Avg Running Loss = 4.446867105960846
+0 - Target captions:
+ A laptop that has stickers on it's cover is sitting on a table.  
+0 - predicted_captions:
+ A laptop and a mouse on a a a a a a a a a. a. a<|endoftext|> 
+1 - Target captions:
+ Group of people drinking wine at a public location.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A group of people sitting at a table in a a a a a. a. a.<|endoftext|> 
+Step 1500/100000: Avg Running Loss = 4.4730284214019775
+0 - Target captions:
+ A view of a bridge over a river on a cloudy day.   
+0 - predicted_captions:
+ A train is passing by a bridge in a a a a. a. a. a the<|endoftext|> 
+1 - Target captions:
+ A man on a tennis court with a racket.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man standing on a tennis court with a tennis racket a ball... a. a<|endoftext|> 
+Step 1600/100000: Avg Running Loss = 4.548853788375855
+0 - Target captions:
+ a couple of women are sitting around a white table  
+0 - predicted_captions:
+ A group of people sitting at a table with a a a a. a. a. a<|endoftext|> 
+1 - Target captions:
+ a woman with a hat in serving area<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A woman is cooking in a kitchen with a table.........<|endoftext|> 
+Step 1700/100000: Avg Running Loss = 4.3392327332496645
+0 - Target captions:
+ A blond boy lays in a hospital bed hugging a bear.   
+0 - predicted_captions:
+ A little boy is lying in bed with a t t t t t t t t t t<|endoftext|> 
+1 - Target captions:
+ Some food, a fish and vegetables, on a plate.<|endoftext|>  
+1 - predicted_captions:
+ A plate of food with a fork and a on it it. and a. it. and<|endoftext|> 
+Step 1800/100000: Avg Running Loss = 4.380647671222687
+0 - Target captions:
+ A couple of men standing facing each other.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man and a woman are playing a a a a a a. a. a. a<|endoftext|> 
+1 - Target captions:
+ A young kid with big blue eyes takes a bite of food.  
+1 - predicted_captions:
+ A little boy is eating a pizza with his hand.........<|endoftext|> 
+Step 1900/100000: Avg Running Loss = 4.446613154411316
+Saving Checkpoint
+0 - Target captions:
+ A dish with sausage, meat patty and a variety of vegetables.  
+0 - predicted_captions:
+ A plate of food with a variety of of and and and and... and. and<|endoftext|> 
+1 - Target captions:
+ A guy holding a cellphone from a display.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is holding a phone in a a a a a a a. a. a.<|endoftext|> 
+Step 2000/100000: Avg Running Loss = 4.479910871982574
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ A table topped with plates of food and cups of coffee.  
+0 - predicted_captions:
+ A cup of coffee and a donut on a a a a a a a a. a<|endoftext|> 
+1 - Target captions:
+ A couple of doughnuts that are sitting in a box.  
+1 - predicted_captions:
+ A box of donuts with a donuts on top of it. a....<|endoftext|> 
+Step 2100/100000: Avg Running Loss = 4.3796800518035885
+0 - Target captions:
+ the back of a silver laptop with the letters rtbF  
+0 - predicted_captions:
+ A laptop sitting on a desk with a a a a. a......<|endoftext|> 
+1 - Target captions:
+ A male tennis player reaches to return the ball.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is playing tennis with a racket a a ball...... the.<|endoftext|> 
+Step 2200/100000: Avg Running Loss = 4.288204758167267
+Batch skipped as captions too long.
+0 - Target captions:
+ An open fridge that includes champagne and food.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A kitchen with a refrigerator, a, and and and and and and and and. and.<|endoftext|> 
+1 - Target captions:
+ A person serves food onto a set of plates.   
+1 - predicted_captions:
+ A man is cooking food in a pot. a.........<|endoftext|> 
+Step 2300/100000: Avg Running Loss = 4.4415749835968015
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ a large tower with a clock on the face of it   
+0 - predicted_captions:
+ A clock tower in a city with a people people.........<|endoftext|> 
+1 - Target captions:
+ A crowd of people at a farmers market.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A street sign with a picture of a a a a a a a. a. a.<|endoftext|> 
+Step 2400/100000: Avg Running Loss = 4.471969392299652
+0 - Target captions:
+ two stone shelves with clay pottery and artwork on display.  
+0 - predicted_captions:
+ A bunch of old knives and other are on a a a. a.....<|endoftext|> 
+1 - Target captions:
+ two people standing in a living room playing nintendo wii  
+1 - predicted_captions:
+ A group of people playing a video game in a a a a. a. a. a<|endoftext|> 
+Step 2500/100000: Avg Running Loss = 4.38195253610611
+Batch skipped as captions too long.
+0 - Target captions:
+ a hand holding a cellphone and a man using a computer  
+0 - predicted_captions:
+ A man is holding a cell phone and a a a a a a. a. a.<|endoftext|> 
+1 - Target captions:
+ A woman puts something into a stone oven. <|endoftext|>  
+1 - predicted_captions:
+ A man is standing in front of a oven a a a a. a....<|endoftext|> 
+Step 2600/100000: Avg Running Loss = 4.371297833919525
+0 - Target captions:
+ A green monument style clock against a brick wall.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A clock with a large clock on it a a a a. a. a...<|endoftext|> 
+1 - Target captions:
+ Two people stand by man pizzas on a kitchen counter.  
+1 - predicted_captions:
+ A man and a woman are standing in a a a pizza.......<|endoftext|> 
+Step 2700/100000: Avg Running Loss = 4.460371651649475
+0 - Target captions:
+ Two windows covered with curtains in front of a mirror.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A window with a view of a room a a a a a. a. a. a<|endoftext|> 
+1 - Target captions:
+ Several teddy bears lined up with hearts and bow ties on them.   
+1 - predicted_captions:
+ A teddy bear with a red bowtie on it. a... a. a<|endoftext|> 
+Step 2800/100000: Avg Running Loss = 4.367647202014923
+Batch skipped as captions too long.
+0 - Target captions:
+ A woman is smiling with a large square plate.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A woman is sitting at a table with a a a a a a a a a a a<|endoftext|> 
+1 - Target captions:
+ An old woman on a cell phone in a crowd of protesters.   
+1 - predicted_captions:
+ A woman is standing in front of a sign phone a a a phone. a. a people<|endoftext|> 
+Step 2900/100000: Avg Running Loss = 4.436191220283508
+Saving Checkpoint
+0 - Target captions:
+ The active tennis player prepares to hit a ball to his opponent.  
+0 - predicted_captions:
+ A man is playing tennis and is a the ball the ball... the.. the<|endoftext|> 
+1 - Target captions:
+ a sandwich made with donuts for buns and a large drink  
+1 - predicted_captions:
+ A donut with a glaze and a a a a a a a a a a a<|endoftext|> 
+Step 3000/100000: Avg Running Loss = 4.412209420204163
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ A group of people that are sitting around a table.<|endoftext|>  
+0 - predicted_captions:
+ A group of women sitting at a table with a table and a......<|endoftext|> 
+1 - Target captions:
+ Several pink and white flowers inside of a yellow vase.  
+1 - predicted_captions:
+ A vase of flowers with a vase of a........<|endoftext|> 
+Step 3100/100000: Avg Running Loss = 4.263190298080445
+Batch skipped as captions too long.
+0 - Target captions:
+ A man in a black shirt is holding a cell phone.  
+0 - predicted_captions:
+ A man holding a phone in his hand and a his........<|endoftext|> 
+1 - Target captions:
+ A silver refrigerator is prominent in the kitchen.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A kitchen with a refrigerator, stove, and and and and. and. and...<|endoftext|> 
+Step 3200/100000: Avg Running Loss = 4.468931012153625
+0 - Target captions:
+ There are a lot of twinkies and appliances on the counter.  
+0 - predicted_captions:
+ A table with a variety of food and and and a a. a. and a. and<|endoftext|> 
+1 - Target captions:
+ A young girl holding a baseball bat on top of  a beach.  
+1 - predicted_captions:
+ A young boy and a girl are playing with a beach a beach beach. beach. beach.<|endoftext|> 
+Step 3300/100000: Avg Running Loss = 4.4644858932495115
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ Ornately decorated assortment of vases displayed on shelf.  
+0 - predicted_captions:
+ A vase with a collection of of on on it........<|endoftext|> 
+1 - Target captions:
+ a laptop that is laying on a bed<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A phone, a laptop, a and a and a a a a a a a a a<|endoftext|> 
+Step 3400/100000: Avg Running Loss = 4.3890194725990295
+0 - Target captions:
+ A series of photographs of restaurant Thai food<|endoftext|>  
+0 - predicted_captions:
+ A plate of food with a variety of vegetables and and and.... and..<|endoftext|> 
+1 - Target captions:
+ Two stuffed animals are posing in a window.  
+1 - predicted_captions:
+ A woman and a man in a hats in a a a a. a....<|endoftext|> 
+Step 3500/100000: Avg Running Loss = 4.543443887233734
+Batch skipped as captions too long.
+0 - Target captions:
+ A teddy bear is sitting on a swing.   
+0 - predicted_captions:
+ A teddy bear sitting on a bench in a a in a grass. in. a.<|endoftext|> 
+1 - Target captions:
+ a large clock that is next to a large building<|endoftext|>  
+1 - predicted_captions:
+ A clock tower with a clock on it a the.........<|endoftext|> 
+Step 3600/100000: Avg Running Loss = 4.394819459915161
+0 - Target captions:
+ a man is flying a kite in a field<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man is flying a kite on the beach the beach the beach the. the. the<|endoftext|> 
+1 - Target captions:
+ A giant clock on the side of of a neon sign.  
+1 - predicted_captions:
+ A clock with a large number on it a a a a a. a. a. a<|endoftext|> 
+Step 3700/100000: Avg Running Loss = 4.405399849414826
+0 - Target captions:
+ A man holds his tennis racket as he stands on the court in front of several piles of bags, water bottles, and supplies.   
+0 - predicted_captions:
+ A man is standing on a tennis court with a a a. a.....<|endoftext|> 
+1 - Target captions:
+ an image of a man holding a tennis racket<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A tennis player is about to hit a ball a the........<|endoftext|> 
+Step 3800/100000: Avg Running Loss = 4.5016797828674315
+0 - Target captions:
+ a tall clock tower near a building <|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A clock tower in the background of a a a a clock clock......<|endoftext|> 
+1 - Target captions:
+ A colorful kitchen has a table that is set for a meal  
+1 - predicted_captions:
+ A kitchen with a table, chairs, and and and and and and and. and. and<|endoftext|> 
+Step 3900/100000: Avg Running Loss = 4.355245931148529
+Saving Checkpoint
+0 - Target captions:
+ a table that has some bowls on it<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A table with a plate of food, a a and a and a and a and a and<|endoftext|> 
+1 - Target captions:
+ A bed with a book, black laptop and blanket.  
+1 - predicted_captions:
+ A laptop and a book on a bed with a a. a......<|endoftext|> 
+Step 4000/100000: Avg Running Loss = 4.269468655586243
+Batch skipped as captions too long.
+0 - Target captions:
+ A person reaches for food on a platter lit by a candle.  
+0 - predicted_captions:
+ A man is sitting at a table with a a a a a a a a a a a<|endoftext|> 
+1 - Target captions:
+ A man siting in a chair working on his laptop.<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man sitting in a chair with a a a a a a a a a a. a<|endoftext|> 
+Step 4100/100000: Avg Running Loss = 4.457415018081665
+Batch skipped as captions too long.
+0 - Target captions:
+ a baseball player swinging a bat on a field   
+0 - predicted_captions:
+ A baseball player is at bat and a a a a..... the. the<|endoftext|> 
+1 - Target captions:
+ a room that has teddy bears hanging up<|endoftext|>  
+1 - predicted_captions:
+ A display of various hats and other accessories. a.........<|endoftext|> 
+Step 4200/100000: Avg Running Loss = 4.529454519748688
+0 - Target captions:
+ People stand in line at a table looking at different bottles at an outdoor event.  
+0 - predicted_captions:
+ A group of people sitting at a table with a a and a.... a.<|endoftext|> 
+1 - Target captions:
+ A group of teddy bears have hats and scarves.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A group of teddy bears with a a and a........<|endoftext|> 
+Step 4300/100000: Avg Running Loss = 4.438227748870849
+0 - Target captions:
+ A clock projects out from the front of a building.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A clock on a building with a a a a a........<|endoftext|> 
+1 - Target captions:
+ A woman is sitting with a teddy bear in her lap.  
+1 - predicted_captions:
+ A woman sitting on a chair with a a a a a a a t a a a stuffed<|endoftext|> 
+Step 4400/100000: Avg Running Loss = 4.360904698371887
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ A young woman sitting on concrete stairs using her cell phone<|endoftext|>  
+0 - predicted_captions:
+ A woman sitting on a bench with a phone a a a. a. a. a.<|endoftext|> 
+1 - Target captions:
+ A woman in a brown coat this is holding a phone.  
+1 - predicted_captions:
+ A woman is holding a phone to her her a.........<|endoftext|> 
+Step 4500/100000: Avg Running Loss = 4.277049787044525
+0 - Target captions:
+ Different types of flowers in a marble vase.<|endoftext|>  
+0 - predicted_captions:
+ A vase of flowers in a vase of a........<|endoftext|> 
+1 - Target captions:
+ a woman hiding in a stove peeking out the door  
+1 - predicted_captions:
+ A woman is standing in front of a mirror a a a a. a....<|endoftext|> 
+Step 4600/100000: Avg Running Loss = 4.305287930965424
+Batch skipped as captions too long.
+Batch skipped as captions too long.
+0 - Target captions:
+ A variety of stuffed toys assembled on a pile of leaves.  
+0 - predicted_captions:
+ A table with a variety of stuffed animals and toys. on. on. on...<|endoftext|> 
+1 - Target captions:
+ A teacher talking to children in a classroom.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A group of people sitting at a table table a a a. a.....<|endoftext|> 
+Step 4700/100000: Avg Running Loss = 4.375876390933991
+Batch skipped as captions too long.
+0 - Target captions:
+ A plastic bottle of water is sitting on a granite counter top.  
+0 - predicted_captions:
+ A kitchen with a sink, a stove, and and and and and and. and and.<|endoftext|> 
+1 - Target captions:
+ A man holding a baseball bat next to home plate.<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is playing a game of a a a a a a. a. a. a<|endoftext|> 
+Step 4800/100000: Avg Running Loss = 4.345623869895935
+0 - Target captions:
+ A beautiful vase decorated with painted pansies and a blue laser light coming from the mouth of the vase.  
+0 - predicted_captions:
+ A red and white ceramic cup with a a a a a a a. a. a.<|endoftext|> 
+1 - Target captions:
+ A clear, glass vase with different colored roses in it.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A vase of flowers on a a table a a a.......<|endoftext|> 
+Step 4900/100000: Avg Running Loss = 4.342623360157013
+Batch skipped as captions too long.
+Saving Checkpoint
+0 - Target captions:
+ A nice lookign couch sits in an empty room<|endoftext|>  
+0 - predicted_captions:
+ A living room with a couch, a, and, and and a and a and. and<|endoftext|> 
+1 - Target captions:
+ Small vintage photo of three people and a fishing net.  
+1 - predicted_captions:
+ A man and a woman standing on a tennis court tennis tennis.......<|endoftext|> 
+Step 5000/100000: Avg Running Loss = 4.5350904726982115
+Batch skipped as captions too long.
+0 - Target captions:
+ A person up to bat and a baseball game.  
+0 - predicted_captions:
+ A baseball player is about to hit a ball a a a.......<|endoftext|> 
+1 - Target captions:
+ Several men eating together in an outdoor seating area.  
+1 - predicted_captions:
+ A group of people sitting at a table eating a. a.......<|endoftext|> 
+Step 5100/100000: Avg Running Loss = 4.355759053230286
+0 - Target captions:
+ a clock on the wall of a house<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A clock is on the wall of a a a a a.......<|endoftext|> 
+1 - Target captions:
+ a vase having a bunch of flowers inside of it  
+1 - predicted_captions:
+ A vase of flowers with a in a a.........<|endoftext|> 
+Step 5200/100000: Avg Running Loss = 4.474786229133606

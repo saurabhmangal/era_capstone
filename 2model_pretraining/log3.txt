@@ -1,0 +1,142 @@
+Using device: cuda
+NOTE! Installing ujson may make loading annotations faster.
+Proxy exported
+Using CUDA: 4 GPUs available
+Train size 532577 and validation size 59176
+Train size 532577 and validation size 59176
+Training started.
+Step 0/100000: Avg Running Loss = 4.790945529937744
+Batch skipped as captions too long.
+0 - Target captions:
+ a picture of mao zedong on a white wall near some clay jars  
+0 - predicted_captions:
+ A collection of vases and a on a a a a. a. a...<|endoftext|> 
+1 - Target captions:
+ A room with a desk, laptop, chair and computer monitor. <|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A room with a desk, a, and, and and a and a. and..<|endoftext|> 
+Step 100/100000: Avg Running Loss = 4.4749384379386905
+Batch skipped as captions too long.
+0 - Target captions:
+ A baseball player who has just swung the bat.  
+0 - predicted_captions:
+ A baseball player is in the batter at a the.........<|endoftext|> 
+1 - Target captions:
+ a small dog is sitting on a white coach<|endoftext|>  
+1 - predicted_captions:
+ A dog lying on a couch with a a a a a. a. a. a.<|endoftext|> 
+Step 200/100000: Avg Running Loss = 4.318851330280304
+0 - Target captions:
+ A tennis player has just hit a shot on a purple court.  
+0 - predicted_captions:
+ A man is playing tennis on a court a a a..... a..<|endoftext|> 
+1 - Target captions:
+ a house a refrigerator logs a fence and trees<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A dumpster with a sign on it a a a a..... a.<|endoftext|> 
+Step 300/100000: Avg Running Loss = 4.188936502933502
+0 - Target captions:
+ a man and woman showing off their cell phones<|endoftext|>  
+0 - predicted_captions:
+ A man and a woman are holding a phone phone a phone.......<|endoftext|> 
+1 - Target captions:
+ Three computer monitors with picture of earth on it.  
+1 - predicted_captions:
+ A computer with a monitor, keyboard, and and and a desk... on. a<|endoftext|> 
+Step 400/100000: Avg Running Loss = 4.430269260406494
+0 - Target captions:
+ Assortment of Hello Kitty merchandise arranged on shelves.   
+0 - predicted_captions:
+ A shelf with a variety of items and and on a........<|endoftext|> 
+1 - Target captions:
+ two blue and white vases sit on a tabletop<|endoftext|>  
+1 - predicted_captions:
+ A set of ceramic vases with a flowers on them. a......<|endoftext|> 
+Step 500/100000: Avg Running Loss = 4.328366889953613
+Batch skipped as captions too long.
+0 - Target captions:
+ A tennis player is preparing to swing his racket.<|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man is playing tennis on a court a. a........<|endoftext|> 
+1 - Target captions:
+ A collection of books and a pocket watch in dim lighting.  
+1 - predicted_captions:
+ A clock and a book sitting on a a a a a.......<|endoftext|> 
+Step 600/100000: Avg Running Loss = 4.432725682258606
+0 - Target captions:
+ A white cloth with scissors, a needle, thread, and measuring tape resting on top.  
+0 - predicted_captions:
+ A pair of scissors and a pair of a a a a a a. a. a a<|endoftext|> 
+1 - Target captions:
+ Flowers in a vase with fruit around it<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A vase of flowers on a table a a a a table a. a. a.<|endoftext|> 
+Step 700/100000: Avg Running Loss = 4.54483567237854
+0 - Target captions:
+ A black vase with a red flower hanging from it.  
+0 - predicted_captions:
+ A vase with a flower in it on a a........<|endoftext|> 
+1 - Target captions:
+ Two photographs of a man in white shirt playing tennis.<|endoftext|>  
+1 - predicted_captions:
+ A man is playing tennis and a a a a.........<|endoftext|> 
+Step 800/100000: Avg Running Loss = 4.4441443943977355
+0 - Target captions:
+ A baby sitting next to a stuffed bear.   
+0 - predicted_captions:
+ A baby is sitting on a teddy bear with a t t t t t t t t<|endoftext|> 
+1 - Target captions:
+ a couple of baseball players taking some batting practice   
+1 - predicted_captions:
+ A baseball player is standing on the field with a.........<|endoftext|> 
+Step 900/100000: Avg Running Loss = 4.251483626365662
+Batch skipped as captions too long.
+Saving Checkpoint
+0 - Target captions:
+ A cute girl shuffling through heripod in her home  
+0 - predicted_captions:
+ A woman is holding a phone in her hand a a........<|endoftext|> 
+1 - Target captions:
+ A white plate with a sandwich and chips.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A plate of food with a sandwich and a and a on. and a. and..<|endoftext|> 
+Step 1000/100000: Avg Running Loss = 4.43656802892685
+Batch skipped as captions too long.
+0 - Target captions:
+ A laptop computer with a mouse, and web camera attached.   
+0 - predicted_captions:
+ A laptop and a monitor are on a a a a a. a.....<|endoftext|> 
+1 - Target captions:
+ a clock on a wall sits in front of a bench<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A clock on a window of a a a a a........<|endoftext|> 
+Step 1100/100000: Avg Running Loss = 4.32603447675705
+Batch skipped as captions too long.
+0 - Target captions:
+ A black and white appliance in a kitchen next to drawers.  
+0 - predicted_captions:
+ A kitchen with a stove, oven, and and and........<|endoftext|> 
+1 - Target captions:
+ A shelf with different types of blenders and brick wall.<|endoftext|>  
+1 - predicted_captions:
+ A table with a vase, a and and and and and on. on. and.<|endoftext|> 
+Step 1200/100000: Avg Running Loss = 4.369972033500671
+Batch skipped as captions too long.
+0 - Target captions:
+ A tennis player playing tennis in a tennis court.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A woman is playing tennis and a a a..........<|endoftext|> 
+1 - Target captions:
+ Bacon, eggs and potatoes on a white plate with a plastic container of salsa.  
+1 - predicted_captions:
+ A plate of food with a fork and a on it it..... it.<|endoftext|> 
+Step 1300/100000: Avg Running Loss = 4.429359745979309
+0 - Target captions:
+ A vase of red roses on a table by a rotary dial telephone  
+0 - predicted_captions:
+ A vase of flowers on a a a a a a a. a. a..<|endoftext|> 
+1 - Target captions:
+ A laptop computer sitting on top of a wooden table.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A laptop and a bowl of fruit on a a a a a a a. a. a<|endoftext|> 
+Step 1400/100000: Avg Running Loss = 4.496952383518219
