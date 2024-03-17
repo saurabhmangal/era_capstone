@@ -234,11 +234,7 @@ def train(
             flops_per_batch=measured_flops,
             lengths=total_lengths,
         )
-        # if loss.item()<8:
-        #     checkpoint_path = out_dir / f"iter-{state['iter_num']:06d}-ckpt.pth"
-        #     fabric.print(f"Saving checkpoint to {str(checkpoint_path)!r}")
-        #     fabric.save(checkpoint_path, state)
-        #     break
+
         if True:#state["iter_num"] % log_interval == 0:
             fabric.print(
                 f"iter {state['iter_num']} step {state['step_count']}: loss {loss.item():.4f}, LR: {lr:.6f}, iter time:"
@@ -283,21 +279,6 @@ def create_dataloader(
 ) -> DataLoader:
     datasets = []
     print(f'Data Config: {data_config}')
-    # for prefix, _ in data_config:
-    #     filenames = glob.glob(f'{data_dir}/{prefix}*.bin')
-    #     print(f'{data_dir}/{prefix}*.bin')
-    #     print(f'yahan 4 hone chaheye: {filenames}')
-    #     print(str(data_dir / f"{prefix}"))
-    #     dataset = PackedDataset(
-    #         filenames,
-    #         n_chunks=2,
-    #         block_size=block_size,
-    #         shuffle=shuffle,
-    #         seed=seed,
-    #         num_processes=fabric.world_size,
-    #         process_rank=fabric.global_rank,
-    #     )
-    #     datasets.append(dataset)
 
     llm_dataset = LLMGeneratedDataset(tokenizer, model, vocab_words, block_size, num_samples=10)
     # save as bin
@@ -339,10 +320,6 @@ def create_dataloader(
 
     for prefix, _ in data_config:
         filenames = glob.glob(f'{data_dir}/{prefix}*.bin')
-        # print(f'{data_dir}/{prefix}*.bin')
-        # print(f'yahan 4 hone chaheye: {filenames}')
-        # print(str(data_dir / f"{prefix}"))
-        
         dataset = PackedDataset(
             filenames,
             n_chunks=2,
@@ -353,21 +330,6 @@ def create_dataloader(
             process_rank=fabric.global_rank,
         )
         datasets.append(dataset)
-
-    # # Create a PackedDataset instance using the generated files
-    # generated_dataset = PackedDataset(
-    #     filenames=glob.glob('path/to/generated_data/generated_data*.bin'),
-    #     n_chunks=2,  # Adjust based on your requirements
-    #     block_size=block_size,  # Make sure this matches the block size used for generation
-    #     shuffle=True,  # Typically you'd shuffle training data
-    #     seed=seed,  # Ensure reproducibility if needed
-    #     num_processes=fabric.world_size,
-    #     process_rank=fabric.global_rank,
-    # )
-
-    # # Now you can add `generated_dataset` to your datasets list for the CombinedDataset
-    # datasets = [packed_dataset1, packed_dataset2, packed_dataset3, generated_dataset]
-
 
 
 
